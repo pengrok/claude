@@ -9,5 +9,6 @@
 | 03_query_rerank_compression.md | 질의 측 처리, 리랭킹·필터링·압축 |
 | 04_multimodal_efficiency.md | 멀티모달 검색, 효율·스케일·동적 인덱스 |
 | 05_prior_art_check.md | 연구 주제 후보 7개의 선행연구 중복 점검 |
+| 06_fulltext_verification.md | 논문 본문 전수 확인 결과(확인 항목 725개) |
 
-주의: 조사 세션에서 arxiv.org·aclanthology.org·huggingface.co 접근이 차단되어 모든 서지·수치는 웹 검색 결과(초록 수준)로만 확인했다. "미확인" 표시 항목은 인용 전 원문 확인이 필요하다.
+2026-11-20: 모든 논문을 원문(PDF·공식 페이지)으로 다시 확인하고 01~05를 교정했다. 확인 결과는 06 파일에 있다.
